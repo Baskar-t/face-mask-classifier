@@ -9,16 +9,16 @@ Pretrained Model used:
 Download the SVM pretrained model https://github.com/Baskar-t/face-mask-classifier/tree/main/models
 
 Class mask_predictor
-# image - path of the image file to predict the mask
-# pretrained path of the SVM model
+## image - path of the image file to predict the mask
+## pretrained path of the SVM model
 def pred_mask(image,svm_model_path)
      ......
 	return img, box_list, label_list, proba_list
 	
-# img - image vector
-# box list - list of image box of faces
-# label_list - list of labels for the predicted face images (Mask , No Mask)
-# proba_list - list of probability of predicted labels
+## img - image vector
+## box list - list of image box of faces
+## label_list - list of labels for the predicted face images (Mask , No Mask)
+## proba_list - list of probability of predicted labels
 
 
 Usage:
