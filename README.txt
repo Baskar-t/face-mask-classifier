@@ -6,7 +6,7 @@ Pretrained Model used:
      The embedding vector is of dimension 512.
 
 
-Download the SVM pretrained model here
+Download the SVM pretrained model https://github.com/Baskar-t/face-mask-classifier/tree/main/models
 
 Class mask_predictor
 # image - path of the image file to predict the mask
