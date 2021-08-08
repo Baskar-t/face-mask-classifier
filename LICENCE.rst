@@ -1,4 +1,4 @@
-c) Copyright 2021 Baskaran Thulukanam.
+(c) Copyright 2021 Baskaran Thulukanam.
 
 Licensed under the MIT license:
 
